@@ -1,0 +1,12 @@
+public class Main
+{
+	public static void main(String[] args) { 
+	    
+	 int x = 170;
+	 int y = 150;
+     if (x>160) {
+     System.out.println("YES");}
+     else { 
+         System.out.println("NO"); }
+     }
+     } 
